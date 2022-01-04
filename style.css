@@ -1,0 +1,39 @@
+body {
+    background-color: lightcoral;
+}
+
+#container {
+    text-align: center;
+margin-top: auto;
+
+
+}
+table {
+    margin: auto;
+}
+input {
+
+    border: 5px solid green;
+    border-radius: 15px;
+    width: auto;
+    height: 80px;
+    font-size: 31px;
+    margin-bottom: 10px;
+
+}
+
+button {
+    border-radius: 25px;
+    font-size: 20px;
+    background-color: lightblue;
+    width: 92px;
+    height: 50px;
+}
+#box {
+   border: 5px;
+   padding: 20px;
+   border-radius: 20px;
+   display: inline-block;
+   background-color: brown;
+    
+}
